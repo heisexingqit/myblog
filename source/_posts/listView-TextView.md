@@ -1,8 +1,8 @@
 ---
 title: 在PopupWindow控件中使用ListView点击失效
 date: 2023-03-24 15:50:02
-tags: [android, bug]
 categories: android
+tags: [android, bug]
 description: 一个来源于代码复制的坑
 cover: https://md-pic-1300959784.cos.ap-nanjing.myqcloud.com/img/202303220934051.jpg
 comments: false
