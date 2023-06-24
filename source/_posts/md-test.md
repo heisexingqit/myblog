@@ -147,7 +147,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 正文[^脚注1]
 
-复用少时：[百度](www.baidu.com "搜索引擎")
+复用少时：[百度](https://www.baidu.com/ "搜索引擎")
 
 复用多时：[百度][id]，[百度][id]，[百度][id]
 
