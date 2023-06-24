@@ -131,14 +131,14 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ```markdown
 正文[^脚注1]
 
-复用少时：[百度](https://www.baidu.com/ "搜索引擎")
+复用少时：[百度](https://www.baidu.com "搜索引擎")
 
 复用多时：[百度][id]，[百度][id]，[百度][id]
 
 正文链接：[跳转到一级标题](#一级标题)
 
 [^脚注1]: 测试脚注
-[id]: www.baidu.com "搜索引擎"
+[id]: https://www.baidu.com "搜索引擎"
 ```
 
 <!-- endtab -->
@@ -155,7 +155,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 [^脚注1]: 测试脚注
 
-[id]: www.baidu.com "搜索引擎"
+[id]: https://www.baidu.com "搜索引擎"
 
 <!-- endtab -->
 
